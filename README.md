@@ -43,7 +43,7 @@ $ npm install string2tree --save
 ```
 * require & use
 ``` javascript
-const recarve = require('recarve')
+const string2tree = require('string2tree')
 
 string2tree({
     "a.b.c.d":val,
