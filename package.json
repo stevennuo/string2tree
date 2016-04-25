@@ -1,0 +1,29 @@
+{
+  "name": "string2tree",
+  "version": "1.0.0",
+  "description": "convert string array to tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevennuo/string2tree.git"
+  },
+  "author": "linuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevennuo/string2tree/issues"
+  },
+  "homepage": "https://github.com/stevennuo/string2tree#readme",
+  "keywords": [
+    "string",
+    "array",
+    "tree"
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-deep-match": "^1.0.2",
+    "mocha": "^2.4.5"
+  }
+}
